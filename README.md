@@ -39,9 +39,8 @@
   <a href="https://wa.me/5534991614690?text=Ol%C3%A1%2C+Bom+dia+tenho+interesse+no+servi%C3%A7o+%21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="luizz.felipe.santos17@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="mailto:luizz.felipe.santos17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+
 </div>
 
 ###
